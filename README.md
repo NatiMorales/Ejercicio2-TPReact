@@ -1,8 +1,17 @@
-# React + Vite
+# Ejercicio 2 - Trabajo practico React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Librerias 📚
 
-Currently, two official plugins are available:
+- [React Bootstrap v2.10.1](https://react-bootstrap.github.io/)
+- [Bootstrap v5.3.2](https://getbootstrap.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Pasos para probar el proyecto
+
+Si vas a clonar el proyecto segui los siguientes comandos: 
+``` git clone https://github.com/NatiMorales/Ejercicio2-TPReact.git ```
+
+## Link del proyecto: [Ejercicio2](https://ejercicio2-tpreact-nataliamorales.netlify.app/)
+
+### Autor
+Natalia Morales
