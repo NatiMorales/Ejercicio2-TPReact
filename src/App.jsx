@@ -1,11 +1,14 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
-import { Container } from 'react-bootstrap';
+
+import TituloPrincipal from './components/TituloPrincipal';
 
 function App() {
 
   return (
-    <></> 
+    <>
+      <TituloPrincipal texto = "my friend"></TituloPrincipal>
+    </>
   );
 }
 
